@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightBoxTest", "BrightBoxTest\BrightBoxTest.csproj", "{F926A502-6209-4275-9D47-B6BFFF016330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightBoxTestClient", "BrightBoxTestClient\BrightBoxTestClient.csproj", "{5FBE81A2-AEF3-467E-82E5-764ABA7859A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F926A502-6209-4275-9D47-B6BFFF016330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F926A502-6209-4275-9D47-B6BFFF016330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F926A502-6209-4275-9D47-B6BFFF016330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F926A502-6209-4275-9D47-B6BFFF016330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FBE81A2-AEF3-467E-82E5-764ABA7859A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBE81A2-AEF3-467E-82E5-764ABA7859A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBE81A2-AEF3-467E-82E5-764ABA7859A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBE81A2-AEF3-467E-82E5-764ABA7859A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

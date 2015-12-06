@@ -1,0 +1,6 @@
+C:\Users\Путин В\documents\visual studio 2015\Projects\BrightBoxTest\BrightBoxTestClient\bin\Debug\BrightBoxTestClient.exe.config
+C:\Users\Путин В\documents\visual studio 2015\Projects\BrightBoxTest\BrightBoxTestClient\bin\Debug\BrightBoxTestClient.exe
+C:\Users\Путин В\documents\visual studio 2015\Projects\BrightBoxTest\BrightBoxTestClient\bin\Debug\BrightBoxTestClient.pdb
+C:\Users\Путин В\documents\visual studio 2015\Projects\BrightBoxTest\BrightBoxTestClient\obj\Debug\BrightBoxTestClient.csprojResolveAssemblyReference.cache
+C:\Users\Путин В\documents\visual studio 2015\Projects\BrightBoxTest\BrightBoxTestClient\obj\Debug\BrightBoxTestClient.exe
+C:\Users\Путин В\documents\visual studio 2015\Projects\BrightBoxTest\BrightBoxTestClient\obj\Debug\BrightBoxTestClient.pdb
